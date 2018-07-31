@@ -83,5 +83,6 @@
       "prettier-package-json --write",
       "git add"
     ]
-  }
+  },
+  "reveal": true
 }
